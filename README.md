@@ -9,8 +9,8 @@ It helps **HR teams** reduce attrition, enhance employee retention, and optimize
 
 ## Datasets Used
 
-- [`HR_Dataset 1.csv`](./HR_Dataset%201.csv) – Contains employee details, demographics, job roles, and attrition status  
-- [`HR_Dataset 2.xlsx`](./HR_Dataset%202.xlsx) – Includes employee lifecycle, training details, location, and employment status
+- <a href="https://github.com/FarookBashaD12/HR_Data_Analysis_Dashboard/blob/main/HR_Dataset%201.csv">HR Dataset_1</a>– Contains employee details, demographics, job roles, and attrition status  
+- <a href="https://github.com/FarookBashaD12/HR_Data_Analysis_Dashboard/blob/main/HR_Dataset%202.xlsx">HR Dataset_2</a> – Includes employee lifecycle, training details, location, and employment status
 
 ---
 
@@ -37,7 +37,7 @@ It helps **HR teams** reduce attrition, enhance employee retention, and optimize
 
 ## Dashboard Snapshot
 
-
+- <a href="https://github.com/FarookBashaD12/HR_Data_Analysis_Dashboard/blob/main/HR_Data_Analysis_Dashboard.png">HR Dashboard</a>
 
 ## 📌 Key Insights & Observations
 
