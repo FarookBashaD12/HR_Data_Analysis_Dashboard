@@ -1,7 +1,7 @@
 # HR_Data_Analysis_Dashboard
-
+---
 ## Project Objective
-
+---
 This project aims to analyze employee and attrition data using **Excel**, **SQL**, and **Power BI** to extract actionable insights related to workforce demographics, turnover, job roles, and training effectiveness.  
 It helps **HR teams** reduce attrition, enhance employee retention, and optimize training investments.
 
@@ -33,7 +33,7 @@ It helps **HR teams** reduce attrition, enhance employee retention, and optimize
 - Developed interactive visual dashboards with filters (Gender, Department)
 - Visualized key HR metrics like attrition rate, job role analysis, training insights, and age distribution
 
-
+---
 
 ## Dashboard Snapshot
 
@@ -56,7 +56,7 @@ It helps **HR teams** reduce attrition, enhance employee retention, and optimize
 - Leadership Development
 - Training costs typically range from `$200–$800`
 
-
+---
 
 ## Tools & Technologies
 
@@ -64,7 +64,7 @@ It helps **HR teams** reduce attrition, enhance employee retention, and optimize
 - **MySQL** → Data exploration, KPI calculations  
 - **Power BI** → Dashboard design, visual storytelling
 
-
+---
 
 ## Final Conclusion
 
